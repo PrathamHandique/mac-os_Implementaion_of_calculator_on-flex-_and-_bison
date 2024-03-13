@@ -17,7 +17,8 @@ homebrew install bison
 save the calc.l and calc.y files in desktop
 
 
-Terminal exacution
+........Terminal exacution.............
+
 
 
 cd desktop
