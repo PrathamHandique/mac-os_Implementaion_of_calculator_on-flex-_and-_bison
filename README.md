@@ -19,6 +19,7 @@ save the calc.l and calc.y files in desktop
 
 Terminal exacution
 
+
 cd desktop
 
 flex calc.l
