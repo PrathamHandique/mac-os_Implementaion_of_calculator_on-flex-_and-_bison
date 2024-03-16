@@ -27,7 +27,8 @@ flex calc.l
 
 bison -d calc.y
 
-gcc calc.tab.c lex.yy.c -o calc -lfl
+gcc calc.tab.c lex.yy.c -o calc -lfl(for macos ventura)
+gcc calc.tab.c lex.yy.c -o calc -ll(for macos sonoma)
 
 ./calc
 
